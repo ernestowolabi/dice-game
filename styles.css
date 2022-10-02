@@ -1,0 +1,7 @@
+.active {
+  background-color: red;
+}
+
+#reset-btn {
+  display: none;
+}
